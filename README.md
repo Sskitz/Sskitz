@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sskitz aka Stiizzy Cat#0001
+- 👋 Hi, I’m @Sskitz aka Stiizzy Cat
 - 👀 I’m interested in Javascript , python and bash
 - 🌱 I’m currently learning Javascript and bash
 - 💞️ I’m looking to collaborate on ...
