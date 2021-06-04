@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Sskitz aka Stiizzy Cat
-- 👀 I’m interested in Javascript , python and bash
-- 🌱 I’m currently learning Javascript and bash
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 😋 Hi, I’m @Sskitz aka Stiizzy Cat
+- 😵‍💫 I’m interested in Javascript , python and bash
+- 💯 I’m currently learning Javascript and bash
+
 
 <!---
 Sskitz/Sskitz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
